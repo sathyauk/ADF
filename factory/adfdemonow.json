@@ -1,0 +1,9 @@
+{
+	"name": "adfdemonow",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f82477b-e0f1-477e-b666-cc28d035204d",
+		"tenantId": "1d7d447e-2694-4f18-96b8-e22ba1bd71b0"
+	}
+}
